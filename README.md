@@ -1,7 +1,9 @@
+## DEVELOPED BY: S JAIGANESH
+## REGISTER NO: 212222240037
+## DATE:
+
+
 # Ex.No: 6               HOLT WINTERS METHOD
-### Date: 
-
-
 
 ### AIM:
 To forecast sales using the Holt-Winters method and calculate the Test and Final Predictions.
@@ -108,4 +110,4 @@ TEST AND FINAL PREDICTION:
 
 
 ### RESULT:
-Thus the program run successfully based on the Holt Winters Method model.
+Thus, the program to forecast sales using the Holt-Winters method and calculate the Test and Final Prediction is executed successfully.
